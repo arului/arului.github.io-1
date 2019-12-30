@@ -1,2 +1,2 @@
-# https://arulkumar-lab.github.io/home/
+# https://arului.github.io/
 Arul UI sample applications
